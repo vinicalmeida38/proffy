@@ -124,6 +124,7 @@ function TeacherForm () {
                                 { value: 'Geografia', label: 'Geografia'},
                                 { value: 'História', label: 'História'},
                                 { value: 'Matemática', label: 'Matématica'},
+                                { value: 'Música', label: 'Música'},
                             ]}
                         /> 
                         <Input 
